@@ -1,0 +1,6 @@
+{
+  "name": "RUHUL CHATTING",
+  "description": "A production-ready Instant Messaging mobile application clone similar to Imo with real-time chat, voice/video call screens, and user presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
